@@ -28,6 +28,19 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+### IntelliJ project files to ignore ###
+.idea/*
+!*.iml
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/runConfigurations/
+
+### IntelliJ specific workspace files ###
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf/
+
 ### Eclipse ###
 .apt_generated
 .classpath
